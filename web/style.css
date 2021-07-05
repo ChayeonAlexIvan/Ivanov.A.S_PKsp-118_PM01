@@ -1,0 +1,19 @@
+html
+{
+	background: url(fon1.gif);
+	background-size: 100%;
+}
+h1
+{
+	font-family: Monotype Corsiva;
+	font-size: 24pt;
+	font-weight: 600;
+	text-decoration: underline;
+}
+p
+{
+	border: 3px solid blue;
+	background: #FFB6C1;
+	margin-left: 18em;
+	width: 240px;
+}
